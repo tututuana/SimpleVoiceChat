@@ -1,3 +1,3 @@
 To:Do:
 -------
-- [] Mute, Deafen buttons
+- [ ] Mute, Deafen buttons
